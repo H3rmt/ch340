@@ -21,6 +21,11 @@ copy
 sudo cp -v ch34x.ko /lib/modules/$(uname -r)/kernel/drivers/usb/serial
 ```
 
+uinstall brltty
+```sh
+yay -R orca brltty
+```
+
 ## Instructions (not from me)
 https://cdmana.com/2022/04/202204051838283142.html
 
