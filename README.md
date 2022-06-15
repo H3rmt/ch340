@@ -1,7 +1,7 @@
 # ch340
 ### modified version of CH340/CH341 drivers for arch linux
 
-Make shure not to use zen kernel, else it complains about /lib/modules/?.?.?-zen1-1-zen/build missing 
+Make sure not to use zen kernel, else it complains about /lib/modules/?.?.?-zen1-1-zen/build missing 
 
 
 
